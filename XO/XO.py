@@ -19,3 +19,4 @@ def XO(str):
 		return False
 
 print(XO("xxcono"))
+print("hello")

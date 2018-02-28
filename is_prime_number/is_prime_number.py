@@ -56,3 +56,5 @@ def is_prime_number(i):
 i=input("Enter a number:")
 i=int(i)
 print(is_prime_number(i))
+
+print("hello world!")
